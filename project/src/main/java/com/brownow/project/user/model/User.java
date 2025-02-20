@@ -1,4 +1,4 @@
-package com.brownow.project.model;
+package com.brownow.project.user.model;
 
 
 import jakarta.persistence.Entity;

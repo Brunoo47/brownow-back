@@ -1,8 +1,7 @@
-package com.brownow.project.controller;
+package com.brownow.project.user.controller;
 
-import com.brownow.project.service.UserService;
+import com.brownow.project.user.service.UserService;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 @RequestMapping("/user")
 public class UserController {

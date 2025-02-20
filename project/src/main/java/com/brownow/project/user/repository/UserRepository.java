@@ -1,6 +1,6 @@
-package com.brownow.project.repository;
+package com.brownow.project.user.repository;
 
-import com.brownow.project.model.User;
+import com.brownow.project.user.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {
